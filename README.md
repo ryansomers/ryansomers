@@ -6,7 +6,7 @@
 
 🔗 **Follow the build:**
 - X: [@ryansomersai](https://x.com/ryansomersai)
-- LinkedIn: [Ryan Somers](https://linkedin.com/in/ryansomers)
+- LinkedIn: [Ryan Somers](https://linkedin.com/in/ryansomers1)
 
 ---
 
