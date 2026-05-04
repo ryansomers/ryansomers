@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Ryan 👋
 
-<!--
-**ryansomers/ryansomers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20 years old. Building AI automations for independent insurance agencies.
 
-Here are some ideas to get you started:
+**The goal:** $0 → $10K/month in 12 months. Documenting publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Follow the build:**
+- X: [@ryansomers](https://x.com/ryansomers)
+- LinkedIn: [Ryan Somers](https://linkedin.com/in/ryansomers)
+
+---
+
+### What I'm building
+AI-powered automations that help independent insurance agencies capture more leads, follow up faster, and reclaim hours every week.
+
+### Projects
+*Coming soon — first builds shipping in the next 30 days.*
+
+### Currently learning
+- Anthropic & OpenAI APIs
+- n8n / Make automation workflows
+- Python for backend integrations
