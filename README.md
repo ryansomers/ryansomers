@@ -5,7 +5,7 @@
 **The goal:** $0 → $10K/month in 12 months. Documenting publicly.
 
 🔗 **Follow the build:**
-- X: [@ryansomers](https://x.com/ryansomers)
+- X: [@ryansomersai](https://x.com/ryansomersai)
 - LinkedIn: [Ryan Somers](https://linkedin.com/in/ryansomers)
 
 ---
