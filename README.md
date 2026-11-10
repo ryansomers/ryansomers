@@ -1,22 +1,19 @@
-# Hey, I'm Ryan 👋
+# Ryan Somers
 
-20 years old. Building AI automations for independent insurance agencies.
+I build systems that take repetitive work off a team's plate, from quick fixes to full workflows.
 
-**The goal:** $0 → $10K/month in 12 months. Documenting publicly.
+### What I build
+- Multi-agent workflows with task orchestration, tool integrations (MCP, REST APIs) and persistent state
+- Document and data extraction with schema validation
+- Retrieval over internal documents
+- Routing across OpenAI, Claude and fine-tuned models
+- Evals that measure accuracy, cost and latency before anything ships
 
-🔗 **Follow the build:**
-- X: [@ryansomersai](https://x.com/ryansomersai)
-- LinkedIn: [Ryan Somers](https://linkedin.com/in/ryansomers1)
+### Stack
+Python · SQL · C++ · FastAPI · PostgreSQL · Docker · PyTorch · scikit-learn · pandas · LangGraph
 
----
+### Currently
+Finishing a B.S.B.A. at the University of Florida and building a deeper computer science foundation in algorithms, data structures and machine learning.
 
-### What I'm building
-AI-powered automations that help independent insurance agencies capture more leads, follow up faster, and reclaim hours every week.
-
-### Projects
-*Coming soon — first builds shipping in the next 30 days.*
-
-### Currently learning
-- Anthropic & OpenAI APIs
-- n8n / Make automation workflows
-- Python for backend integrations
+### Contact
+Have a task your team hates? Message me on [LinkedIn](https://www.linkedin.com/in/ryansomers05).
